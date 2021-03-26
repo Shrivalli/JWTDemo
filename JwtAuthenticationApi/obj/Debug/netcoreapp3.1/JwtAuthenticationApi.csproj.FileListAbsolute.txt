@@ -1,0 +1,240 @@
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.exe
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.deps.json
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.runtimeconfig.json
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.runtimeconfig.dev.json
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.pdb
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.csprojAssemblyReference.cache
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.AssemblyInfoInputs.cache
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.AssemblyInfo.cs
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.RazorTargetAssemblyInfo.cache
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.csproj.CopyComplete
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\staticwebassets\JwtAuthenticationApi.StaticWebAssets.Manifest.cache
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\staticwebassets\JwtAuthenticationApi.StaticWebAssets.xml
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.pdb
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.genruntimeconfig.cache
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.csproj.CoreCompileInputs.cache
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\com 1\source\repos\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\log4net.config
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\appsettings.json
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.exe
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.deps.json
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.runtimeconfig.json
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.runtimeconfig.dev.json
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\JwtAuthenticationApi.pdb
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\log4net.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Moq.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.csprojAssemblyReference.cache
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.AssemblyInfoInputs.cache
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.AssemblyInfo.cs
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.csproj.CoreCompileInputs.cache
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.RazorTargetAssemblyInfo.cache
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.csproj.CopyComplete
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\staticwebassets\JwtAuthenticationApi.StaticWebAssets.Manifest.cache
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\staticwebassets\JwtAuthenticationApi.StaticWebAssets.xml
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.dll
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.pdb
+G:\CTS Data\Reference Project\FlightManagementProject-master\JwtAuthenticationApi\JwtAuthenticationApi\obj\Debug\netcoreapp3.1\JwtAuthenticationApi.genruntimeconfig.cache
